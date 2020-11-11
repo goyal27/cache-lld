@@ -7,3 +7,6 @@
 ## Problem statement
 [Check here](problem-statement.md)
 
+## Class Diagram
+![Class Diagram](attachments/cache-lld.png)
+
