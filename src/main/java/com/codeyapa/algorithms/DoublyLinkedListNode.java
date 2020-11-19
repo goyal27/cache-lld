@@ -1,6 +1,9 @@
 package com.codeyapa.algorithms;
 
+import lombok.Getter;
+
 public class DoublyLinkedListNode<E> {
+    @Getter
     E element;
     DoublyLinkedListNode<E> prev;
     DoublyLinkedListNode<E> next;
